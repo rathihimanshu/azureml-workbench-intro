@@ -1,5 +1,4 @@
 # Introduction to Azure Machine Learning Workbench
-This file contains text you can copy and paste for the examples in Cloud Academy's _Introduction to Azure Machine Learning Workbench_ course.  
 
 ### Introduction
 [Azure Free Trial](https://azure.microsoft.com/free) 
@@ -30,6 +29,4 @@ az ml service keys realtime -i irisapp
 [Boston Hubway dataset](https://s3.amazonaws.com/hubway-data/index.html)  
 [Boston weather data](https://azuremluxcdnprod001.blob.core.windows.net/docs/azureml/bikeshare/BostonWeather.csv) from [NOAA](http://www.noaa.gov)  
 
-### Conclusion
-[Azure Machine Learning Workbench documentation](https://docs.microsoft.com/azure/machine-learning)  
-support@cloudacademy.com
+
